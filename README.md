@@ -1,18 +1,5 @@
 
-with col1:
-    st.write("")
-with col2:
-    st.title(":orange[Prevendo Preços do Petróleo Brent-FOB]")  
-with col3:
-    st.write("")
 
-
-with col4:
-    st.write("")
-with col5:
-    st.image('oil-pumps-work-rhythmically-against-backdrop-dusky-sky.jpg', width=500,use_column_width=2, caption='Extração de petróleo- Image by rorozoa on Freepik')
-with col6:
-    st.write("")
 
 # Petróleo Brent
 
